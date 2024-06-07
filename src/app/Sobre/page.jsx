@@ -37,7 +37,6 @@ export default function Sobre() {
             </p>
           </div>
         </section>
-
         <section className={estilos.secao_imagens}>
           <div>
             <Image className={estilos.img} src={image1} alt="pessoas comendo sorvete" />
